@@ -1,0 +1,6 @@
+﻿  main.cpp
+  slice.cpp
+  正在生成代码...
+main.obj : error LNK2019: 无法解析的外部符号 "public: __thiscall slice<int>::slice<int>(int,int)" (??0?$slice@H@@QAE@HH@Z)，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 "public: __thiscall slice<int>::~slice<int>(void)" (??1?$slice@H@@QAE@XZ)，该符号在函数 _main 中被引用
+D:\xmac\projects\cpp\stl\Debug\slice.exe : fatal error LNK1120: 2 个无法解析的外部命令
